@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383945033797",
+    "project_id": "geothe-uni",
+    "storage_bucket": "geothe-uni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383945033797:android:7d54b1c8284866c293fb2c",
+        "android_client_info": {
+          "package_name": "com.geotheuniapp.geothe_uni_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383945033797-0oe8t1m0okld95g5skssaf573gbffaqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUQ7shmyOpQ5IDWClJt6UPd6D5VOVYVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383945033797-0oe8t1m0okld95g5skssaf573gbffaqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
